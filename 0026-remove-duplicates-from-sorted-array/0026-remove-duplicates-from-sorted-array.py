@@ -12,5 +12,4 @@ class Solution:
                 i+=1
             j+=1
                 
-        print(nums)
         return k
